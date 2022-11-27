@@ -1,0 +1,6 @@
+Matlab 
+
+PID turning
+pidTuner function
+
+Keep in mind that a higher closed-loop bandwidth results in a faster rise time, and a larger phase margin reduces the overshoot and improves the system stability.
