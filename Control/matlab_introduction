@@ -4,3 +4,8 @@ PID turning
 pidTuner function
 
 Keep in mind that a higher closed-loop bandwidth results in a faster rise time, and a larger phase margin reduces the overshoot and improves the system stability.
+
+Calculate the roots of a polynomial.
+
+p=[1,7,0,9,-20];   %建立多项式系数向量
+x=roots(p)
